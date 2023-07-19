@@ -563,7 +563,11 @@ object-fit: cover;
     margin-right: 10px;
     border: 1px solid transparent;
 }
-
+.play-icon {
+    color: #fff;
+    font-size: 24px;
+    margin-right: 10px;
+}
 .game-mini-icon img {
     height: 2.5rem;
     width: 2.5rem;
